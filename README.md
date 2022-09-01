@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sareem
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? LinkedIn[https://www.linkedin.com/in/ssandeed/]
 
