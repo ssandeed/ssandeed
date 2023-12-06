@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sareem
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python, R and SQL
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently studying Master of Data Science at the University of Technology Sydney(UTS)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? LinkedIn[https://www.linkedin.com/in/ssandeed/]
 
